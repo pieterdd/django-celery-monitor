@@ -10,10 +10,10 @@ import re
 
 from collections import namedtuple
 
-__version__ = '1.1.2'
-__author__ = 'Jannis Leidel'
+__version__ = '1.1.3'
+__author__ = 'Jannis Leidel/Pieter De Decker'
 __contact__ = 'jannis@leidel.info'
-__homepage__ = 'https://github.com/jezdez/django-celery-monitor'
+__homepage__ = 'https://github.com/pieterdd/django-celery-monitor'
 __docformat__ = 'restructuredtext'
 
 # -eof meta-
